@@ -1,4 +1,6 @@
-# Foco & Humor — React Native (Expo)
+# Entrega Global Solution - Levi Ochi dos Santos / 551044
+
+## App Foco & Humor
 
 Mini app com duas funções:
 - Timer de foco (ajuste de duração, iniciar/pausar, reset e barra de progresso)
